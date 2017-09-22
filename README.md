@@ -10,7 +10,7 @@ can't find command '/opt/honeymap/server/server'
 
 解决方案：
 
-copy server to >> /opt/honeymap/server/
+copy 'server' to >> /opt/honeymap/server/
 
 
 
